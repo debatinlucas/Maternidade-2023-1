@@ -4,7 +4,6 @@
     <string name="mae">Mãe</string>
     <string name="medico">Médico</string>
     <string name="bebe">Bebê</string>
-
     <string name="gerenciar_maes">Gerenciar Mães</string>
     <string name="gerenciar_medicos">Gerenciar Médicos</string>
     <string name="gerenciar_bebes">Gerenciar Bebês</string>
@@ -36,4 +35,11 @@
     <string name="peso">Peso*</string>
     <string name="altura">Altura*</string>
 
+    <string name="compartilhar">Compartilhar</string>
+    <string name="tirar_foto">Tirar Foto</string>
+    <string name="camera">Câmera</string>
+    <string name="sensor">Sensor</string>
+    <string name="valor_x">Valor X:</string>
+    <string name="valor_y">Valor Y:</string>
+    <string name="valor_z">Valor Z:</string>
 </resources>
